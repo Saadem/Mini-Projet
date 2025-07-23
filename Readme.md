@@ -6,7 +6,7 @@ Ce script compare la performance prédictive de la régression Ridge (pénalisat
 
 
 
-###### &nbsp; **Dépendances requises**
+#### &nbsp; **Dépendances requises**
 
 
 
@@ -22,7 +22,7 @@ Avant d’exécuter le script, rassurer d'avoir les bibliothèques suivantes (ou
 
 
 
-###### &nbsp;**Exécution du code**
+#### &nbsp;**Exécution du code**
 
 
 
