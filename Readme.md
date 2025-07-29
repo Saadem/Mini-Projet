@@ -30,17 +30,17 @@ Avant d’exécuter le script, rassurer d'avoir les bibliothèques suivantes (ou
 
 1\. Ouvrez un terminal (ou Anaconda Prompt).
 
-2\. Placez-vous dans le dossier contenant le fichier `figure\_ridge\_lasso.py`.
+2\. Placez-vous dans le dossier contenant le fichier `Code_figure_ridge_lasso.py`.
 
 3\. Tapez la commande suivante : 
 
 
 
-&nbsp;  python figure\_ridge\_lasso.py
+&nbsp;  python `Code_figure_ridge_lasso.py`
 
 
 
-4\. Le script générera une figure nommée `figure\_ridge\_lasso.png` dans le dossier courant. Elle représente l’évolution de la RMSE en fonction de la valeur de λ pour les deux méthodes(Ridge et Lasso).
+4\. Le script générera une figure nommée `figure_ridge_lasso.png` dans le dossier courant. Elle représente l’évolution de la RMSE en fonction de la valeur de λ pour les deux méthodes(Ridge et Lasso).
 
 
 
