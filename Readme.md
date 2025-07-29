@@ -44,6 +44,13 @@ Avant d’exécuter le script, rassurer d'avoir les bibliothèques suivantes (ou
 
 
 
+
+#### &nbsp; **Modification des paramètres au besoin**
+
+
+
+
+
 Tous les paramètres (nombre d’observations, bruit, plage de λ, etc.) sont modifiables directement dans le fichier Python.
 
 
