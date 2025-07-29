@@ -51,7 +51,8 @@ Avant d’exécuter le script, rassurer d'avoir les bibliothèques suivantes (ou
 
 
 
-Tous les paramètres (nombre d’observations, bruit, plage de λ, etc.) sont modifiables directement dans le fichier Python.
+Tous les paramètres de simulation sont déclarés clairement au début du fichier `Code_figure_ridge_lasso.py`, dans une section délimitée et nommée `PARAMÈTRES À MODIFIER`.  
+Au besoin, modifiez-les pour adapter la taille de l’échantillon, la proportion de bruit, le nombre de répétitions ou encore la plage des valeurs de régularisation ( λ ).
 
 
 
